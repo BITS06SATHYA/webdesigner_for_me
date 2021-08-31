@@ -1,2 +1,2 @@
-# webdesigner_for_me
+# Webdesigning
 Learning Website designing from University of Minnesota
